@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Hôte : 127.0.0.1:3306
--- Généré le : ven. 24 mai 2024 à 12:39
+-- Généré le : lun. 27 mai 2024 à 10:32
 -- Version du serveur : 8.2.0
 -- Version de PHP : 8.2.13
 
@@ -111,7 +111,7 @@ CREATE TABLE IF NOT EXISTS `user` (
   `password` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci NOT NULL,
   `isAdmin` tinyint(1) NOT NULL DEFAULT '0',
   PRIMARY KEY (`id`)
-) ENGINE=MyISAM AUTO_INCREMENT=5 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+) ENGINE=MyISAM AUTO_INCREMENT=6 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 --
 -- Déchargement des données de la table `user`
@@ -119,6 +119,7 @@ CREATE TABLE IF NOT EXISTS `user` (
 
 INSERT INTO `user` (`id`, `username`, `email_adress`, `password`, `isAdmin`) VALUES
 (2, 'qheritier', 'quentheritier@gmail.com', '$2y$10$oR1o7KLbnYKoMXn4.725YuNuOIUrnJKTc32iKf1lbsHHNl7xTLsLu', 1),
+(5, 'admin', 'admin@admin.com', '$2y$10$Nx4gMksq4Q3B4eZ4/YgJPu.vBFjn9zSpcJhqe.pihsShGdeK3qIvu', 1),
 (4, 'TEST', 'user@gmail.com', '$2y$10$0msO3VkRQdKzohTTKujHLOybQ0KyvbMSR8Rqbomhah.O/1R.VGhQa', 0);
 COMMIT;
 
