@@ -33,7 +33,7 @@ Projet BTS SIO SLAM KultureVerse
 ### 2. Questions
 
 -   Depuis la page de gestion des quizz, cliquez sur le bouton consulter sur la ligne du quizz dont vous souhaitez modifier les questioins
--   Vous etes rediriger vers la page de gestion des questions du quizz
+-   Vous etes rediriger vers la page de gestion des questions du quizz depuis laquelle vous pouvez ajouter, modifier ou supprimer des questions
 
 ## Pour creer un compte utilisateur :
 
