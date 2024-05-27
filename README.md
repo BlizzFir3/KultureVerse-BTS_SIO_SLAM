@@ -11,7 +11,7 @@ Projet BTS SIO SLAM KultureVerse
 -   Importer le script SQL fournit dans le code source
 -   Ouvrir localhost/KultureVerse
 
-    _Si vous ajouter un nouveau quizz veillez a bien mettre l'URL de l'image et non pas une image directement_
+    _PS : Si vous ajouter un nouveau quizz veillez a bien mettre l'URL de l'image et non pas une image directement_
 
 # Utilisation
 
@@ -29,6 +29,12 @@ Projet BTS SIO SLAM KultureVerse
 -   Depuis la page de gestion des quizz, cliquez sur le bouton consulter sur la ligne du quizz dont vous souhaitez modifier les questioins
 -   Vous etes rediriger vers la page de gestion des questions du quizz
 
+## Se connecter
+
+-   Derouler le menu deroulant avec les boutons en forme de burger en haut a gauche
+-   Cliquer sur Se Connecter
+-   Entrer les informations du compte (nom d'utilisateur ou adresse mail et mot de passe)
+
 ## Pour creer un compte utilisateur :
 
 -   Se deconnecter du compte administrateur si vous etes connecter avec ce type de compte
@@ -37,6 +43,11 @@ Projet BTS SIO SLAM KultureVerse
 -   Creez votre compte avec les informations que vous desirez
 -   Vous etes rediriger vers la page de connexion
 -   Connectez vous avec les informations que vous avez utiliser
+
+## Pour creer un compte admin
+
+-   Creer un compte utilisateur
+-   Dans phpmyadmin : dans la table user, sur la ligne du compte concerner changer la colonne isAdmin (0) en 1
 
 ## Faire un quizz pour tester vos connaissances :
 
