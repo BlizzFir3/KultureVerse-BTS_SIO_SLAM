@@ -10,6 +10,7 @@ Projet BTS SIO SLAM KultureVerse
 -   Ouvrir phpmyadmin
 -   Importer le script SQL fournit dans le code source
 -   Ouvrir localhost/KultureVerse
+
     _Si vous ajouter un nouveau quizz veillez a bien mettre l'URL de l'image et non pas une image directement_
 
 # Utilisation
