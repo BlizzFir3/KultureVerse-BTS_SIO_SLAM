@@ -15,6 +15,12 @@ Projet BTS SIO SLAM KultureVerse
 
 # Utilisation
 
+## Se connecter
+
+-   Derouler le menu deroulant avec les boutons en forme de burger en haut a gauche
+-   Cliquer sur Se Connecter
+-   Entrer les informations du compte (nom d'utilisateur ou adresse mail et mot de passe)
+
 ## Pour ajouter modifier ou spprimer des quizz ou des questions :
 
 ### 1. Quizz
@@ -28,12 +34,6 @@ Projet BTS SIO SLAM KultureVerse
 
 -   Depuis la page de gestion des quizz, cliquez sur le bouton consulter sur la ligne du quizz dont vous souhaitez modifier les questioins
 -   Vous etes rediriger vers la page de gestion des questions du quizz
-
-## Se connecter
-
--   Derouler le menu deroulant avec les boutons en forme de burger en haut a gauche
--   Cliquer sur Se Connecter
--   Entrer les informations du compte (nom d'utilisateur ou adresse mail et mot de passe)
 
 ## Pour creer un compte utilisateur :
 
