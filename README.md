@@ -21,7 +21,7 @@ Projet BTS SIO SLAM KultureVerse
 -   Cliquer sur Se Connecter
 -   Entrer les informations du compte (nom d'utilisateur ou adresse mail et mot de passe)
 
-## Pour ajouter modifier ou spprimer des quizz ou des questions :
+## Pour ajouter modifier ou supprimer des quizz ou des questions :
 
 ### 1. Quizz
 
