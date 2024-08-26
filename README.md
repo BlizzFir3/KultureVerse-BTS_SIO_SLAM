@@ -2,7 +2,7 @@
 
 Projet BTS SIO SLAM KultureVerse
 
-# Instalation
+# Installation
 
 -   Telecharger le code source
 -   Lancer WAMP SERVER
